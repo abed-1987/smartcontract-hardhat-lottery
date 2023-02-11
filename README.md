@@ -2,7 +2,7 @@
 
 ```
 git clone https://github.com/abed-1987/smartcontract-hardhat-lottery.git
-cd hardhat-smartcontract-lottery-fcc
+cd smartcontract-hardhat-lottery-main
 yarn
 ```
 
